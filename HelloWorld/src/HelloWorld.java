@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("How are you");
 		System.out.println("Message from user1");
 		System.out.println("How are you Git");
+		System.out.println("new functionality");
 
 	}
 }
